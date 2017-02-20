@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/swtch_off.png</file>
+        <file>icons/swtch_on.png</file>
+    </qresource>
+</RCC>

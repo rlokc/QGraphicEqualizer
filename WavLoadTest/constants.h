@@ -1,0 +1,9 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+
+#define CHUNKSIZE 256
+#define SAMPLERATE 44100
+#define FILTER_ORDER 128
+
+#endif // CONSTANTS_H
